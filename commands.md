@@ -1,0 +1,7 @@
+```
+$PSVersionTable
+
+(get-command).count
+
+
+```
