@@ -21,5 +21,8 @@ https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powers
 ## Installing the MSI package
 https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3
 
+Note: PowerShell 7.3 installs to a new directory and runs side-by-side with Windows PowerShell 5.1. PowerShell 7.3 is an in-place upgrade that replaces PowerShell 7.0 and lower.
+
 By default the package is installed to $env:ProgramFiles\PowerShell\<version>
+
 You can launch PowerShell via the Start Menu or $env:ProgramFiles\PowerShell\<version>\pwsh.exe
